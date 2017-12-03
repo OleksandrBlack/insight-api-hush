@@ -84,6 +84,13 @@
 "http://hushpool.cloud"
 ]
 },
+ {
+"poolName": "lucky-mining.com.ua",
+"url": "http://lucky-mining.com.ua/",
+"searchStrings": [
+"lucky-mining.com.ua"
+]
+}, 
 {
 "poolName": "Hashgate",
 "url": "http://hashgate.eu",
